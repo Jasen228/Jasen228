@@ -1,9 +1,10 @@
 ## Hi there 👋  Jasen228 Technicien IT
 
--"whoami" (🎓 Titulaire du titre de Technicien Supérieur Systèmes et Réseaux (TSSR), je poursuis actuellement un Bachelor 3 en Administration Systèmes, Réseaux et Cybersécurité.
+-"whoami"  (🎓 Titulaire du titre de Technicien Supérieur Systèmes et Réseaux (TSSR), je poursuis actuellement un Bachelor 3 en Administration Systèmes, Réseaux et Cybersécurité.
 
 💻 Je suis à la recherche d’une alternance en tant que Technicien IT afin de mettre en pratique mes compétences en systèmes, réseaux et support informatique, tout en poursuivant ma montée en compétences en cybersécurité.)
 <!-- Badges outils -->
+
 ### 🛠️ Mes outils
 
 <div align="center">
@@ -59,20 +60,16 @@
 
 ### 🛠️ Environnement technique
 
-```
-┌─────────────────────────────────────────────────────────┐
-│                    Infrastructure                        │
-├─────────────────────────────────────────────────────────┤
-│  Hyperviseur        : VMware ESXi 7.0                    │
-│  Domaine AD         : Windows Server 2019/2022           │
-│  Pare-feu           : PfSense 2.7                        │
-│  Supervision        : Zabbix 6.0 + Grafana               │
-│  Gestion parc       : GLPI 10.0                          │
-│  Mises à jour       : WSUS                               │
-│  Sauvegarde         : AOMEI Backupper                    │
-│  OS Clients         : Windows 10/11, Debian, Kali        │
-└─────────────────────────────────────────────────────────┘
-```
+| Rôle | Solution | Version |
+|------|----------|---------|
+| **Hyperviseur** | [![VMware ESXi](https://img.shields.io/badge/VMware%20ESXi-607078?style=for-the-badge&logo=vmware&logoColor=white)](https://www.vmware.com/products/esxi-and-esx.html) | 7.0 |
+| **Domaine AD** | [![Windows Server](https://img.shields.io/badge/Windows%20Server-0078D4?style=for-the-badge&logo=windowsserver&logoColor=white)](https://www.microsoft.com/windows-server) | 2019/2022 |
+| **Pare-feu** | [![PfSense](https://img.shields.io/badge/PfSense-212121?style=for-the-badge&logo=pfsense&logoColor=white)](https://www.pfsense.org) | 2.7 |
+| **Supervision** | [![Zabbix](https://img.shields.io/badge/Zabbix-D42020?style=for-the-badge&logo=zabbix&logoColor=white)](https://www.zabbix.com) | 6.0 |
+| **Gestion parc** | [![GLPI](https://img.shields.io/badge/GLPI-8B0000?style=for-the-badge&logo=glpi&logoColor=white)](https://glpi-project.org) | 10.0 |
+| **Mises à jour** | [![WSUS](https://img.shields.io/badge/WSUS-0078D4?style=for-the-badge&logo=windowsupdate&logoColor=white)](https://learn.microsoft.com/windows-server/administration/windows-server-update-services) | — |
+| **Sauvegarde** | [![AOMEI Backupper](https://img.shields.io/badge/AOMEI%20Backupper-0078D7?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0iI2ZmZiIgZD0iTTEyIDJMNCA3djEwbDggNSA4LTVWN2wtOC01em0wIDIuM0wxOC43IDggMTIgMTMuLjMgOCA1LjMgMTIgMTIgMTguNyA1LjMgMTYgMTIgMTAuM3oiLz48L3N2Zz4=&logoColor=white)](https://www.aomeitech.com/ab/backup.html) | — |
+| **OS Clients** | [![Windows](https://img.shields.io/badge/Windows%2010%2F11-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://www.microsoft.com/windows) · [![Debian](https://img.shields.io/badge/Debian-A80030?style=for-the-badge&logo=debian&logoColor=white)](https://www.debian.org) · [![Kali](https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)](https://www.kali.org) | — |
 
 ### 📈 Compétences
 
