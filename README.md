@@ -1,5 +1,8 @@
-## Hi there 👋
+## Hi there 👋  Jasen228 Technicien IT
 
+-"whoami" (🎓 Titulaire du titre de Technicien Supérieur Systèmes et Réseaux (TSSR), je poursuis actuellement un Bachelor 3 en Administration Systèmes, Réseaux et Cybersécurité.
+
+💻 Je suis à la recherche d’une alternance en tant que Technicien IT afin de mettre en pratique mes compétences en systèmes, réseaux et support informatique, tout en poursuivant ma montée en compétences en cybersécurité.)
 <!-- Badges outils -->
 ### 🛠️ Mes outils
 
