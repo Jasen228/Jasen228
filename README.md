@@ -1,10 +1,6 @@
-<<<<<<< HEAD
 <div align="center">
-=======
-##                                        Jasen228 Technicien IT 👋
->>>>>>> 0986fca69de00c29deb79f372efc3e2fea8d12f8
 
-# 👋 Jasen228
+# Jasen228
 
 > 🎓 **Technicien Supérieur Systèmes et Réseaux (TSSR)** — Bachelor 3 en Administration Systèmes, Réseaux et Cybersécurité.
 >
